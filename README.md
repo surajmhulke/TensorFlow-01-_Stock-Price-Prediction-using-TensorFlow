@@ -1,5 +1,5 @@
 # TensorFlow-01-_Stock-Price-Prediction-using-TensorFlow
-# Stock Price Prediction Project using TensorFlow
+
 
 ## Introduction
 In this project, we will build a Stock Price Prediction model using TensorFlow. Stock market price analysis is a time-series forecasting task, and we will use a Recurrent Neural Network (RNN) to perform this prediction. TensorFlow, an open-source machine learning framework, will be our primary tool to develop this model. TensorFlow simplifies the process of building neural networks, allowing us to implement complex functionalities with just a few lines of code.
